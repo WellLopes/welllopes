@@ -8,7 +8,7 @@
 
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="SQLServer"/></code>
+<code><img height="32" src="https://databasejoe.com/blog/wp-content/uploads/2020/01/sqlserverlogo.png" alt="SQLServer"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://static.wixstatic.com/media/322cff_c3cd08ea165f4e41bdb604d646554fc5~mv2.png/v1/fit/w_500,h_500,q_90/file.png" alt="PowerBI"/></code>
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="PHP"/></code>
