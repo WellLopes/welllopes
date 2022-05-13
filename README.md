@@ -2,7 +2,7 @@
 
 > Atualmente atuo como Analista de dados na Qintess.
 
-💬 Só vai melhorar!
+💬 Daqui para frente, Só vai melhorar!
 
 ----
 
