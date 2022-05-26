@@ -20,4 +20,7 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=welllopes&show_icons=true&theme=dracula)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=welllopes&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welllopes&layout=compact&langs_count=6&theme=dracula"/>
+</div>
