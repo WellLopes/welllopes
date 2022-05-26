@@ -1,6 +1,6 @@
 ## Olá, meu nome é <strong>Wellerson!</strong>
 
-> Atualmente atuo como Analista de dados na Qintess.
+> Atualmente atuo como Analista MS SQL Server na Qintess.
 
 💬 Daqui para frente, só vai melhorar!
 
