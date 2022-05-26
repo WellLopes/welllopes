@@ -2,7 +2,7 @@
 
 > Atualmente atuo como Analista de dados na Qintess.
 
-💬 Daqui para frente, Só vai melhorar!
+💬 Daqui para frente, só vai melhorar!
 
 ----
 
@@ -21,6 +21,6 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=welllopes&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welllopes&layout=compact&langs_count=6&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=welllopes&show_icons=true&theme=nord"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welllopes&layout=compact&langs_count=6&theme=nord"/>
 </div>
