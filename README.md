@@ -1,6 +1,7 @@
 ## Olá, me chamo <strong>Wellerson!</strong> 👨‍💻
 
-> Atualmente atuo como Analista MS SQL Server na Qintess [Porém, sou um desenvolvedor Front-End em construção]</br>
+> Atualmente atuo como Analista MS SQL Server na Qintess 
+> Sou um desenvolvedor Front-End em construção
 
 ## 💬 Contato
 
