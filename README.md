@@ -1,7 +1,6 @@
 ## Olá, me chamo <strong>Wellerson!</strong> 👨‍💻
 
 > Atualmente atuo como Analista MS SQL Server na Qintess [Porém, sou um desenvolvedor Front-End em construção]</br>
-> Desenvolvo dashboards automatizados com a ferramenta Power BI + Power Automate + SQL Server</br>
 
 ## 💬 Contato
 
